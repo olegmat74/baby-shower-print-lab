@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://olegmat74.github.io/baby-shower-print-lab/sitemap.xml
