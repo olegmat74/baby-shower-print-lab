@@ -1,0 +1,22 @@
+{
+  "mobile": {
+    "title": "Baby Shower Print Lab | Baby Shower Templates and Printables",
+    "links": 19,
+    "images": 2,
+    "brokenImages": 0,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "h1": "Find a baby shower look before the party gets expensive.",
+    "hasMobileTableCss": true
+  },
+  "desktop": {
+    "title": "Baby Shower Print Lab | Baby Shower Templates and Printables",
+    "links": 19,
+    "images": 2,
+    "brokenImages": 0,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "h1": "Find a baby shower look before the party gets expensive.",
+    "hasMobileTableCss": true
+  }
+}
